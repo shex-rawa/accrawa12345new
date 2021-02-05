@@ -1,16 +1,4 @@
-const http = require("http");
-const express = require("express");
-const app = express();
-app.get("/", (request, response) => {
-  response.sendStatus(200);
-});
-app.listen(process.env.PORT);
-setInterval(() => {
-  http.get(`http://spam-1-20.glitch.me/`);
-}, 280000);
 
-// 20 token dane   
-//
 const Discord = require("discord.js");
 const Canvas = require("canvas");
 const fs = require("fs");
@@ -4075,24 +4063,24 @@ client20.on("message", message => {
 
 client.login("");
 client2.login("");
-client3.login(process.env.KahTOKEN3); // جمــيع الحقوق محفوظة لدي "Kahrbaa"
-client4.login(process.env.KahTOKEN4);
-client5.login(process.env.KahTOKEN5);
-client6.login(process.env.KahTOKEN6);
-client7.login(process.env.KahTOKEN7);
-client8.login(process.env.KahTOKEN8);
-client9.login(process.env.KahTOKEN9);
-client10.login(process.env.KahTOKEN10); // جمــيع الحقوق محفوظة لدي "Kahrbaa"
-client11.login(process.env.KahTOKEN11);
-client12.login(process.env.KahTOKEN12);
-client13.login(process.env.KahTOKEN13); // جمــيع الحقوق محفوظة لدي "Kahrbaa"
-client14.login(process.env.KahTOKEN14);
-client15.login(process.env.KahTOKEN15);
-client16.login(process.env.KahTOKEN16);
-client17.login(process.env.KahTOKEN17);
-client18.login(process.env.KahTOKEN18);
-client19.login(process.env.KahTOKEN19);
-client20.login(process.env.KahTOKEN20);
+client3.login(""); 
+client4.login("");
+client5.login("");
+client6.login("");
+client7.login("");
+client8.login("");
+client9.login("");
+client10.login(""); 
+client11.login("");
+client12.login("");
+client13.login(""); 
+client14.login("");
+client15.login("");
+client16.login("");
+client17.login("");
+client18.login("");
+client19.login("");
+client20.login("");
 
 
 
