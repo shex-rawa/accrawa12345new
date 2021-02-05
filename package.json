@@ -2,9 +2,9 @@
   "name": "hello-express",
   "version": "0.0.1",
   "description": "A simple Node app built on Express, instantly up and running.",
-  "main": "MrFOG.js",
+  "main": "bot.js",
   "scripts": {
-    "start": "node MrFOG.js"
+    "start": "node bot.js"
   },
   "dependencies": {
     "3amyah": "^1.0.0",
