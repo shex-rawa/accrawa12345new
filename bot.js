@@ -4061,16 +4061,16 @@ client20.on("message", message => {
 
 // جمــيع الحقوق محفوظة لدي "Kahrbaa"
 
-client.login("ODAyNjI2NDkxNzc4OTkwMTYw.YAx-lA.CUMjV6M0fiDcFTADEPwnEbg-KRc");
-client2.login("ODAyNjI2MDE0MTE0NDgwMTg4.YAx9-Q.OJrgGBWf91tNSamUTtcaCnuWAvE");
-client3.login("ODAyNjI1MzUyMzMyNDc2NDI3.YAx9eg.6qwsvxuqDtt7sCJJtSkjtKm493A"); 
-client4.login("ODAyNjI0NTY4ODM2NjIwMzY5.YAx80A.fdRPCZtBXqhoCxizvgBqE6-D2fM");
-client5.login("ODAyNjIzOTcxNzY0NzMxOTg1.YAx8Lw.0yTrqwGs4KEHfpsVMwjXd0ycnMA");
-client6.login("ODAyNjIzMzAzODAxNTAzODA2.YAx7ow.0qfjvAnltooFJR6sPmy6itMc8SU");
-client7.login("ODAyNjIyNzE0OTk3MjQzOTM1.YAx68w.N4pup4ywXMoiAz3uznIQB5UYCy8");
-client8.login("ODAyNjIxNzQyNjM5MDg3Njg3.YAx6Ww.oSAZeulsdEolz1suKTrZCHM1rNw");
-client9.login("ODAyNjIxMTExNDY3NjM4ODE1.YAx5jQ.4lXNezzi2fpisTwqvGUPNFOJHDA");
-client10.login("ODAyNjExODAxMTIzNTg2MDYw.YAx46Q.1H7IiE-zPTjPAyqsr5GekW_6Mhg"); 
+client.login("ODI3OTYwOTU1MTk4NzY3MTA1.YGio7w.GRxgP8dUwiEPQiUijIOHfqMd5ns");
+client2.login("");
+client3.login(""); 
+client4.login("");
+client5.login("");
+client6.login("");
+client7.login("");
+client8.login("");
+client9.login("");
+client10.login(""); 
 client11.login("");
 client12.login("");
 client13.login(""); 
